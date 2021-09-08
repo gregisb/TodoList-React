@@ -1,3 +1,10 @@
+# Todo List - ReactJs
+
+Todo List desenvolvida em React.
+Na aplicação é possível adcionar tarefas, marcar como lidas, editá-las e deletá-las.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
