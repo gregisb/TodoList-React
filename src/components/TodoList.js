@@ -39,7 +39,7 @@ function TodoList() {
 
     return (
         <div>
-            <h1>Todo App - React</h1>
+            <h1>Lista de Tarefas</h1>
             <TodoForm onSubmit={addTodo}/>
             <Todo todos={todos} 
                   completeTodo={completeTodo} 
