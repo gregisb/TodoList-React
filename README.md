@@ -1,5 +1,7 @@
 # Todo List - ReactJs
 
+<img src="https://github.com/gregisb/TodoList-React/blob/main/public/todo.png?raw=true">
+
 Todo List desenvolvida em React.
 Na aplicação é possível adcionar tarefas, marcar como lidas, editá-las e deletá-las.
 
